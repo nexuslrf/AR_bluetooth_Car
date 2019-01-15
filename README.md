@@ -12,7 +12,7 @@ This is a course project for SJTU kc-3C.
 
 ## Demo:
 
-You can see it on course [webpage](still on building~)
+You can see it on course [webpage](http://eelab.sjtu.edu.cn/kc/2018-12/C35/index.html)
 
 Note: ARCore doesn't support all Android devices!!! If you want try this app, make sure your device is in [supporting list](https://developers.google.com/ar/discover/supported-devices). (SONY Xperia XZ1® is used for our demo)
 
